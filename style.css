@@ -1,0 +1,72 @@
+body {
+	font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: rebeccapurple;
+
+
+}
+  .right-container {
+	float: left;
+	width: 350%;
+	padding: 100px;
+	border: 1px solid #cc;
+}
+  img{
+  	border-radius: 60%;
+  }
+ .oX{
+ 	overflow: auto;
+ }
+ .name-oX {
+ 	float: right;
+	width: 60%;
+	padding: 0px;
+	border: 1px solid #cc;
+	font-family: fantasy;
+	margin-top:-280px;
+	color:burlywood;
+
+} .hr{
+	border: o;
+	height: 1px;
+	background-color: bisque;
+	margin: 50px 0;
+
+}
+.hr2{
+	contain:"";
+	border-bottom:2px solid burlywood;
+	border-inline-end-style: 5;
+
+}
+ .types{
+ 	font-family: cursive;
+ 	color: black;
+ 	margin: 150px;
+
+
+ }
+
+ .non{
+ 	position: relative;
+ 	height: 300px;
+ }
+
+  .types2{
+  	position: absolute;
+  	top: -570px;
+  	right: 0;
+  	padding: 10px;
+
+  	font-family: cursive;
+ 	color: black;
+
+ 	margin-left: 560px;
+
+  }
+   .linkers{
+   font-family: monospace;
+   	color: green;
+   }
+   
